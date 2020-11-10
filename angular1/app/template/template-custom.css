@@ -1,0 +1,22 @@
+html { 
+  background-color: #ecf0f5;
+}
+.main-footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  font-family: Inter;
+}
+#toast-container {
+  top: 70px;
+}
+
+.main-header .logo {
+  font-family: Inter;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.sidebar-menu {
+  font-family: Inter;
+}
