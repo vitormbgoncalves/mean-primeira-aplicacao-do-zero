@@ -1,12 +1,22 @@
 html { 
   background-color: #ecf0f5;
 }
+
 .main-footer {
   position: fixed;
   bottom: 0px;
   width: 100%;
   font-family: Inter;
 }
+
+/* html, .wrapper {
+  background-color: #fff!important;
+}
+
+.login-box-body {
+  background-color: #eee;
+} */
+
 #toast-container {
   top: 70px;
 }
