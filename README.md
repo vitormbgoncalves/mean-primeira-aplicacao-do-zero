@@ -21,7 +21,7 @@
 
 ## 💾 Descrição
 
-Projeto criado durante o curso [Mongo, Express, Angular 1 e Node - Primeira APP do ZERO!] da [Cod3r](https://www.udemy.com/course/mean-primeira-aplicacao-do-zero/).
+Projeto criado durante o curso [*__Mongo, Express, Angular 1 e Node - Primeira APP do ZERO!__*](https://www.udemy.com/course/mean-primeira-aplicacao-do-zero/) da [Cod3r](https://www.cod3r.com.br/?ref=4b3da5).
 
 Este projeto disponibiliza uma API REST desenvolvida com NodeJS e MongoDB, e possui como funcionalidade um CRUD para criar, mostrar, atualizar e deletar informações em um sistema de pagamentos.
 
@@ -41,27 +41,27 @@ Este projeto também disponibiliza uma aplicação de página única (Single-pag
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [npm](https://yarnpkg.com/): gerenciador de pacotes para JavaScript.
-- [Docker](https://www.docker.com/): plataforma para disponibilizar aplicações através de containers.
-- [MongoDB](https://www.mongodb.com/): banco de dados NoSQL.
-- [Mongoose](https://mongoosejs.com/): ferramenta para mapeamento objeto-documento.
-- [MongoDB Compass](https://www.mongodb.com/pt-br/products/compass): ferramenta gráfica para gerenciamento do MongoDB.
-- [Node](https://nodejs.org/en/): runtime para execução de código JavaScript do lado do servidor.
-- [Express](https://expressjs.com/pt-br/): framework JavaScript para criação de aplicações backend.
-- [Bcrypt](https://github.com/kelektiv/node.bcrypt.js): metodo para criptografar senhas a serem salvas.
-- [Lodash](https://lodash.com/): biblioteca que fornece um conjunto de funções simplificadas.
-- [PM2](https://pm2.keymetrics.io/): gerenciador de processos para Node.js.
-- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken): implentação do JSON Web Tokens para Node.js.
-- [Postman](https://insomnia.rest/): cliente para testes de APIs REST.
-- [CORS](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/CORS): mecanismo utilizado pelos navegadores para compartilhar recursos entre diferentes origens.
-- [Angular](https://angularjs.org/): framework JavaScript fronend.
-- [AdminLTE](https://adminlte.io/): Bootstrap Admin Dashboard Template.
-- [Babel](https://babeljs.io/): transcompilador de JavaScript usado para converter o código ECMAScript.
+- [npm](https://yarnpkg.com/): gerenciador de pacotes para JavaScript;
+- [Docker](https://www.docker.com/): plataforma para disponibilizar aplicações através de containers;
+- [MongoDB](https://www.mongodb.com/): banco de dados NoSQL;
+- [Mongoose](https://mongoosejs.com/): ferramenta para mapeamento objeto-documento;
+- [MongoDB Compass](https://www.mongodb.com/pt-br/products/compass): ferramenta gráfica para gerenciamento do MongoDB;
+- [Node](https://nodejs.org/en/): runtime para execução de código JavaScript do lado do servidor;
+- [Express](https://expressjs.com/pt-br/): framework JavaScript para criação de aplicações backend;
+- [Bcrypt](https://github.com/kelektiv/node.bcrypt.js): metodo para criptografar senhas a serem salvas;
+- [Lodash](https://lodash.com/): biblioteca que fornece um conjunto de funções simplificadas;
+- [PM2](https://pm2.keymetrics.io/): gerenciador de processos para Node.js;
+- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken): implentação do JSON Web Tokens para Node.js;
+- [Postman](https://insomnia.rest/): cliente para testes de APIs REST;
+- [CORS](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/CORS): mecanismo utilizado pelos navegadores para compartilhar recursos entre diferentes origens;
+- [Angular](https://angularjs.org/): framework JavaScript fronend;
+- [AdminLTE](https://adminlte.io/): Bootstrap Admin Dashboard Template;
+- [Babel](https://babeljs.io/): transcompilador de JavaScript usado para converter o código ECMAScript;
 - [Gulp](https://gulpjs.com/): ferramenta de automação de tarefas para JavaScript.
 
 ## 🖥 Execução do Backend
 
-1. Clone o projeto git através do terminal;
+1. Clone o projeto git através do terminal:
 
 ```shell
 git clone https://github.com/vitormbgoncalves/mean-primeira-aplicacao-do-zero.git
@@ -78,13 +78,13 @@ sudo docker run \
     mongo:4
 ```
 
-4. Para instalar todas dependências do projeto execute o comando abaixo;
+4. Para instalar todas dependências do projeto execute o comando abaixo:
 
 ```shell
 npm install
 ```
 
-3. Para iniciar a aplicação execute o comando abaixo
+3. Para iniciar a aplicação execute o comando abaixo:
 
 ```shell
 npm run dev
@@ -98,13 +98,13 @@ npm run dev
 cd angular1
 ```
 
-2. Para instalar todas dependências do projeto execute o comando abaixo;
+2. Para instalar todas dependências do projeto execute o comando abaixo:
 
 ```shell
 npm install
 ```
 
-3. Para iniciar a aplicação execute o comando abaixo
+3. Para iniciar a aplicação execute o comando abaixo:
 
 ```shell
 npm run dev
